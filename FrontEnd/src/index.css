@@ -1,0 +1,17 @@
+.app-container{
+  display: block;
+}
+
+
+
+
+
+@media (min-width: 700px) {
+  .app-container{
+    display: flex;
+  }
+
+  .fishlist{
+    margin-top: 2.5rem;
+  }
+}
